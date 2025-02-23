@@ -26,5 +26,12 @@ The subclasses of Employee class:
 
 - Employees’ data is stored in an **array**. 
 - Employee counter holds the current employee count. 
-- Employee type shows which subclass the employee belongs to. 
+- Employee type shows which subclass the employee belongs to.
+- ![Image](https://github.com/user-attachments/assets/be61d41a-6a08-48c2-9c56-5a3d264f96fe)
+
+### Graphical User Interface(GUI)
+
+- **Layout**
+Uses a GridPane for organizing GUI components.
+Contains labels, text fields, combo boxes and buttons for input and interaction.
  
