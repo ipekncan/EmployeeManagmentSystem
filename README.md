@@ -34,4 +34,5 @@ The subclasses of Employee class:
 - **Layout**
 Uses a GridPane for organizing GUI components.
 Contains labels, text fields, combo boxes and buttons for input and interaction.
+![Image](https://github.com/user-attachments/assets/237ed4ce-e712-401c-a8bb-bebc5aff1359)
  
