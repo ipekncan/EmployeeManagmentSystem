@@ -1,0 +1,4 @@
+Commission Employee,aaa,bbb,069d4103-6789-46b0-a581-a11ee6d4f0ff,82.0,0.7,57.4
+Hourly Employee,Ezgi,Şahin,49d2418-b824-4dae-8b6b-efc54add6909,100.0,50,5500.0
+Commission Employee,Mert,Can,5d7247fe-bee6-48fb-8ab4-9c6b8e45cd21,500.0,0.3,150.0
+Base Plus Commission Employee,duzeldi,mi,c85d3f9a-7b3f-4dca-8279-9914c89c77d0,8000.0,0.2,10.0,1610.0
