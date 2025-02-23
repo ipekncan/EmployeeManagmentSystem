@@ -1,15 +1,15 @@
 # Employee Management System  
-📌 **[Ezgi Şahin](https://github.com/EzgiSahin5)** ile birlikte geliştirilmiştir.  
-Bu proje, **JavaFX** kullanarak çalışanları yönetmek için geliştirilmiş bir masaüstü uygulamasıdır. Kullanıcılar, çalışan ekleme, arama ve güncelleme gibi işlemleri gerçekleştirebilirler.  
+📌 Developed in collaboration with **[Ezgi Şahin](https://github.com/EzgiSahin5)**.
+This project is a **JavaFX-based** desktop application designed to manage employees. Users can perform operations such as adding, searching, and updating employees.
+## 🚀Features  
+- **Add Employee:** Kullanıcı, çalışan türünü seçerek yeni çalışan ekleyebilir.  
+- **Search Employee:** SSN (Social Security Number) ile çalışan arayabilir.  
+- **Update Employee:** SSN ile bulunan çalışanın bilgileri güncellenebilir.  
+- **File Operations:** Çalışan verileri, bir **text dosyasında** saklanır ve güncellenir.  
 
-## 🚀 Özellikler  
-- **Çalışan Ekleme:** Kullanıcı, çalışan türünü seçerek yeni çalışan ekleyebilir.  
-- **Çalışan Arama:** SSN (Social Security Number) ile çalışan arayabilir.  
-- **Çalışan Güncelleme:** SSN ile bulunan çalışanın bilgileri güncellenebilir.  
-- **Dosya İşlemleri:** Çalışan verileri, bir **text dosyasında** saklanır ve güncellenir.  
-
-## 🛠️ Kullanılan Teknolojiler  
+## 🛠️ Technologies Used 
 - **Java 11+**  
 - **JavaFX**  
 
-## 📁 Proje Yapısı  
+## 📁 Project Structure  
+![Image](https://github.com/user-attachments/assets/eef52884-df3a-4038-add2-a79ac465e4ee)
