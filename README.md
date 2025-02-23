@@ -16,12 +16,15 @@ This project is a **JavaFX-based** desktop application designed to manage employ
 
 This program is based on JavaFx Graphical User Interface(GUI) designed to manage employee data. There is an Employee abstract class with four types of subclasses.
 The subclasses of Employee class:
--**Salaried Employee**
--**Hourly Employee**
--**Commission Employee**
--**Base Plus Commission Employee**
 
-⚙️ Functional Components
--Employees’ data is stored in an **array**.
--Employee counter holds the current employee count.
--Employee type shows which subclass the employee belongs to.
+- **Salaried Employee**
+- **Hourly Employee**
+- **Commission Employee**
+- **Base Plus Commission Employee**
+
+### ⚙️ Functional Components
+
+- Employees’ data is stored in an **array**. 
+- Employee counter holds the current employee count. 
+- Employee type shows which subclass the employee belongs to. 
+ 
